@@ -1,6 +1,5 @@
-# How To Install Elasticsearch, Logstash, and Kibana (ELK Stack) on macOS Sierra
+Installation
+-------------
 
-
-
-
-
+Install Elastic Search
+> brew install elasticsearch
